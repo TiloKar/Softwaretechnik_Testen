@@ -1,6 +1,3 @@
-
-import static org.junit.Assert.assertEquals;
-
 import junit.framework.TestCase;
 
 public class HonorarRechnerJUnit3Test extends TestCase {
