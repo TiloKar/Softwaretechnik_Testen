@@ -1,6 +1,8 @@
 /**Klasse für die Analyse von Autorentexten
  * 
  * @author tilok
+ * 
+ * Spielklasse für Modul Softwaretechnik im SS21
  *
  */
 public class TextAnalyze {
